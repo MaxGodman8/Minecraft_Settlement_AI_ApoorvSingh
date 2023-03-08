@@ -18,7 +18,7 @@ In the colony, I will have structures like small gardens outside the houses.
 The whole settlement will have a fence built around it to separate it from the rest of the area.
 There will be a main entry point somewhere in the fence to enter the “village”.
 This entry point will of course be in line with the setting of the rest of the village.
-The main partition in the middle of the colony will act as a highway (inspired by the town of Grand Falls Windsor).
+The main partition in the middle of the colony will act as a highway.
 I will also add different terrains to show a hill and a water body nearby.
 
 Thank you.
