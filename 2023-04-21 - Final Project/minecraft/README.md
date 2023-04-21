@@ -2,7 +2,7 @@
 # Minecraft Project Feature Checklist
 - [x] Specialty chosen: __________
 - [ ] Adaptivity
-  - [ ] Settlement avoids 'steamroller' approach
+  - [x] Settlement avoids 'steamroller' approach
   - [ ] At least 2 structures adapted to terrain features
     - [ ] Near or on steep cliff
     - [ ] Near or on water or ice
