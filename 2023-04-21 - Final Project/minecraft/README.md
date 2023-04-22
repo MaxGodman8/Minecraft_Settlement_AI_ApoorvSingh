@@ -1,6 +1,6 @@
 
 # Minecraft Project Feature Checklist
-- [x] Specialty chosen: __________
+- [x] Specialty chosen: heavy use of Farm, animals
 - [ ] Adaptivity
   - [x] Settlement avoids 'steamroller' approach
   - [x] At least 2 structures adapted to terrain features
