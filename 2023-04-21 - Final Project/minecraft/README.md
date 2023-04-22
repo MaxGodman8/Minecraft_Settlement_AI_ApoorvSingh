@@ -3,31 +3,31 @@
 - [x] Specialty chosen: __________
 - [ ] Adaptivity
   - [x] Settlement avoids 'steamroller' approach
-  - [ ] At least 2 structures adapted to terrain features
-    - [ ] Near or on steep cliff
+  - [x] At least 2 structures adapted to terrain features
+    - [x] Near or on steep cliff
     - [ ] Near or on water or ice
     - [ ] In or around trees
-    - [ ] Flat terrain
-  - [ ] One specific feature for at least 4 biomes
+    - [x] Flat terrain
+  - [x] One specific feature for at least 4 biomes
 - [ ] Functionality
   - [ ] Building count and placement randomized, does not create the exact same city twice
-  - [ ] Settlement contains 4 'types' of building
-  - [ ] Buildings randomized in size / shape
-  - [ ] Building interiors accessible and decorated  
+  - [x] Settlement contains 4 'types' of building
+  - [x] Buildings randomized in size / shape
+  - [x] Building interiors accessible and decorated  
   - [ ] Building interiors randomized
-  - [ ] Paths between major builings / attractions
-  - [ ] Paths generated via M.S.T. or other algorithm
+  - [x] Paths between major builings / attractions
+  - [x] Paths generated via M.S.T. or other algorithm
   - [ ] At least one "moving" feature (minecart, elevator, lift, etc)
   - [ ] Some CA / Noise / other generative algorithm used in some form
-  - [ ] Defensive structure(s) created
-- [ ] Narrative
-  - [ ] Include the 'story' of your village
-  - [ ] Construction must make sense within that narrative
-- [ ] Aesthetics
-  - [ ] Color of blocks chosen based on biome
-  - [ ] Building types constructed with different materials
-  - [ ] Decorations places where appropriate
-  - [ ] At least 1 outdoor feature (farm, etc)
+  - [x] Defensive structure(s) created
+- [x] Narrative
+  - [x] Include the 'story' of your village
+  - [x] Construction must make sense within that narrative
+- [x] Aesthetics
+  - [] Color of blocks chosen based on biome
+  - [x] Building types constructed with different materials
+  - [x] Decorations places where appropriate
+  - [x] At least 1 outdoor feature (farm, etc)
 
 
 # Minecraft Project Feature Requirements
