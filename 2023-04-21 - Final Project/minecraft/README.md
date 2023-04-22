@@ -24,7 +24,7 @@
   - [x] Include the 'story' of your village
   - [x] Construction must make sense within that narrative
 - [x] Aesthetics
-  - [] Color of blocks chosen based on biome
+  - [ ] Color of blocks chosen based on biome
   - [x] Building types constructed with different materials
   - [x] Decorations places where appropriate
   - [x] At least 1 outdoor feature (farm, etc)
