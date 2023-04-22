@@ -9,7 +9,7 @@
 ## Project Videos:
 
 * Project Demo: https://youtu.be/Ky2WBCgiIjE
-* Project Trailer: YouTube URL
+* Project Trailer: https://youtu.be/1yV7B8XR5Zc
 * Project  Presentation: https://youtu.be/9Vq86XeVuvQ
 
 ## Project Setup / Installation:
