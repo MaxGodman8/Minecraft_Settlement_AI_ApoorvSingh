@@ -1,7 +1,7 @@
 
 # Minecraft Project Feature Checklist
 - [x] Specialty chosen: heavy use of Farm, Large defensive accessible structures
-- [ ] Adaptivity
+- [x] Adaptivity
   - [x] Settlement avoids 'steamroller' approach
   - [x] At least 2 structures adapted to terrain features
     - [x] Near or on steep cliff
@@ -9,7 +9,7 @@
     - [ ] In or around trees
     - [x] Flat terrain
   - [x] One specific feature for at least 4 biomes
-- [ ] Functionality
+- [x] Functionality
   - [ ] Building count and placement randomized, does not create the exact same city twice
   - [x] Settlement contains 4 'types' of building
   - [x] Buildings randomized in size / shape
