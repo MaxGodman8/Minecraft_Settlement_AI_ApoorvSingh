@@ -31,15 +31,6 @@
 
 
 # Minecraft Project Feature Requirements
-
-Here you will find a list of all the requirements for the Minecraft project. The goal of this project to create an entry for the [Generative Design in Minecraft Competition (GDMC)](https://gendesignmc.wikidot.com/wiki:2022-settlement-generation-competition). In 2020 [an entry by 3 students from COMP4303 (Troy, Ryan, and Trent) won the GDMC](https://gazette.mun.ca/student-life/3d-world-builders/) with their [self-titled entry](https://gendesignmc.wikidot.com/wiki:2020-settlement-generation-competition) - an excellent feature to add to a resume.
-
-According to the GDMC website: "The Settlement Generation Challenge is about writing an algorithm that can create a settlement for a given, unknown Minecraft map. The challenge is to produce an algorithm that is adaptive towards the provided map, creates a settlement that satisfies a range of functional requirements - but also looks good and evokes an interesting narrative. The goal is to basically produce an algorithm that can rival the state of the art of what humans can produce"
-
-The project should follow the [rules for the GDMC](https://gendesignmc.wikidot.com/wiki:2022-settlement-generation-competition), closely adhering to the 4 main judging criteria: Adaptivity, Functionality, Narraitive, and Aesthetics. I highly recommend watching the [2021 Winner Presentation Video](https://youtu.be/uYUIZUGPNX8) to become a little more familiar with the project before proceeding further, since it explains many of these concepts. You can also [watch some of the past student project video trailers](https://www.youtube.com/watch?v=X9VV-F9465U&list=PL_xRyXins849F8QIw5s1ID8FOR2cdPMzH&index=1) for inspiration.
-
-As the judging criteria are quite abstract, in order to create a more concrete set of project requirements, you will find above a checklist of required functionality that I would like to see in your final project. Below is a more detailed explanation for each feature. You will also be required to choose a 'specialty' which will make your settlement unique from others.
-
 ## Chosen Specialty
 
 - You are required to choose a specialty for your village that will make it stand out from others in a signficant way.
